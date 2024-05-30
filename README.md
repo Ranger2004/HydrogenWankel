@@ -12,3 +12,5 @@ The results obtain are :
   1. The IMEP
   2. The NO emit
   3. Plots about volume, pressure, temperature of burned and unburned gas and the burned fraction rate according to the crank angle
+
+Corrections or improvements are Welcome :)
